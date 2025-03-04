@@ -6,3 +6,4 @@
 |         |     명령어       |
 | ------- | -------------- | 
 | 초기 셋팅 | npm, pnpm init |
+| express | npm i, pnpm add express |
