@@ -44,7 +44,6 @@
 | 걸프 설치 | gulp 
 | gulp-uglify 설치 | gulp-uglify | 해당 파일 minify 화 함
 | gulp-insert 설치 | gulp-insert | 걸프 파일에 문구 작성 필요시 ex) 걸프 돌린 날짜
-
 | concurrently | concurrently | package.json 스크립트 동시 실행 을 위한 라이브러리
 
 
