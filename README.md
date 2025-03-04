@@ -12,8 +12,8 @@
 
 - npm i , pnpm add
 
-|         |     명령어       |
-| ------- | -------------- | 
+|         |     명령어       |              |
+| ------- | -------------- | ------------ |
 | 초기 셋팅 | init | package.json 생성
 | express 설치 | express |
 | nodemon 설치 | -g nodemom |
